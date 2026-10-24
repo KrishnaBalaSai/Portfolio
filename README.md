@@ -69,7 +69,7 @@ An interview preparation application designed to support live interviews, AI-pow
 - Python Essentials 1
 - Future Interns — Web Development Internship
 
-*Add the issuing organization and verification link for each certification when available.*
+
 
 ## Portfolio Features
 
@@ -108,10 +108,10 @@ An interview preparation application designed to support live interviews, AI-pow
 
 ## Connect With Me
 
-- **Portfolio:** [krishnabalasai.github.io/Portfolio](https://krishnabalasai.github.io/Portfolio/)
+- **Portfolio:** [Visit My Portfolio](https://krishnabalasai.github.io/Portfolio/)
 - **GitHub:** [KrishnaBalaSai](https://github.com/KrishnaBalaSai)
-- **LinkedIn:** [Add your LinkedIn profile URL]
-- **LeetCode:** [Add your LeetCode profile URL]
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/krishna-bala-sai-kopparapu-78b7b5299/)
+- **LeetCode:** [View My LeetCode Profile](https://leetcode.com/u/hu22csen0100398/)
 
 ---
 
