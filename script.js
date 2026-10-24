@@ -102,6 +102,29 @@ const projectData = {
     learning: 'This project helped me explore practical AI application architecture, retrieval-augmented generation, ranking concepts and how a user-facing application can connect multiple AI components.',
     github: '#'
   }
+  ,
+  interview: {
+    number: '03.', date: 'OCTOBER 2026', title: 'AI Interview Simulator',
+    intro: 'A full-stack AI-powered interview preparation platform that helps candidates practice technical and HR interviews, solve coding problems, analyze resumes and review performance.',
+    idea: 'The goal was to bring interview preparation tools into one platform, allowing candidates to practice questions, take adaptive mock interviews and receive actionable feedback.',
+    problem: 'Interview preparation is often spread across separate tools for questions, coding, resume feedback and progress tracking. Candidates also need structured feedback to understand where to improve.',
+    solution: 'The application uses a React and TypeScript frontend with a FastAPI backend. It integrates Gemini-powered interview and resume analysis, PostgreSQL data storage, a Monaco coding editor, analytics dashboards and PDF report generation.',
+    features: ['JWT-based authentication and protected pages', 'Adaptive AI mock interviews', 'Resume analysis and tailored questions', 'Question bank and coding practice', 'Communication analysis and mistake timeline', 'Analytics dashboard and downloadable PDF reports'],
+    tech: ['React.js','TypeScript','Vite','Tailwind CSS','FastAPI','Python','PostgreSQL','SQLAlchemy','Gemini API','Monaco Editor','ReportLab'],
+    learning: 'This project strengthened my understanding of full-stack integration, API design, authentication, database-backed applications and integrating AI features into a practical product.',
+    github: 'https://github.com/KrishnaBalaSai/AI-Interview-Simulator'
+  },
+  evolution: {
+    number: '04.', date: 'OCTOBER 2026', title: 'Codebase Evolution Intelligence System',
+    intro: 'A software engineering analytics platform that turns Git repository history into insights about code changes, contributor activity, complexity and potential maintenance hotspots.',
+    idea: 'The project aims to help developers and engineering teams understand how a codebase changes over time and identify areas that may need closer review or refactoring.',
+    problem: 'Repository history can be difficult to interpret manually. Commit logs alone do not easily reveal files with frequent changes, complex Python code, possible bug-fix activity or concentrated maintenance risk.',
+    solution: 'The system uses GitPython to inspect repository history, stores analysis data in MySQL through SQLAlchemy, uses Pandas to process metrics and Radon to calculate Python cyclomatic complexity. Streamlit and Plotly present the results in an interactive dashboard.',
+    features: ['Analyze public Git/GitHub repositories', 'Explore commits, authors and file changes', 'Measure lines of code and file churn', 'Calculate Python cyclomatic complexity with Radon', 'Identify possible bug-fix commits using keywords', 'Rank code hotspots using multiple metrics', 'Visualize repository trends and contributor activity'],
+    tech: ['Python','Streamlit','MySQL','SQLAlchemy','GitPython','Pandas','Radon','Plotly'],
+    learning: 'This project helped me work with repository mining, relational data modeling, code-quality metrics, data analysis and interactive dashboards for software engineering insights.',
+    github: 'https://github.com/KrishnaBalaSai/Codebase-Evolution-Intelligence-System'
+  }
 };
 
 const projectModal = document.getElementById('projectModal');
