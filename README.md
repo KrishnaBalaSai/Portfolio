@@ -4,7 +4,7 @@ A responsive personal portfolio website showcasing my skills, education, interns
 
 ## Live Portfolio
 
-[View My Portfolio](krishnabalasai.github.io/Portfolio/)
+[View My Portfolio](https://krishnabalasai.github.io/Portfolio/)
 
 ## About
 
