@@ -100,7 +100,7 @@ const projectData = {
     features: ['Personalized recommendations', 'RAG-based information retrieval', 'Vector search', 'Transformer-based ranking', 'Gemini API integration', 'User profiling'],
     tech: ['Python','Streamlit','RAG','Vector Search','Gemini API','Machine Learning'],
     learning: 'This project helped me explore practical AI application architecture, retrieval-augmented generation, ranking concepts and how a user-facing application can connect multiple AI components.',
-    github: '#'
+    github: 'https://github.com/KrishnaBalaSai/Service-Recommendation-System'
   }
   ,
   interview: {
